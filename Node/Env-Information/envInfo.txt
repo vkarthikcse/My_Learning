@@ -1,0 +1,477 @@
+
+=================================
+192.168.31.92
+=================================
+problem with request: connect ECONNREFUSED
+
+=================================
+192.168.31.93
+=================================
+problem with request: connect ECONNREFUSED
+
+=================================
+192.168.31.94
+=================================
+
+$
+Build Number : 11804
+Build Identification : 2016-04-07_10-40-06
+Workspace : /var/lib/jenkins/workspace/AppViewX_Trunk
+Build URL : http://10.10.100.10:8080/job/AppViewX_Trunk/11804/
+Job URL : http://10.10.100.10:8080/job/AppViewX_Trunk/
+SVN Revision : 73689
+SVN URL : https://svn.payoda.com/svn/JAVA/AppviewX_Arch_Release1/trunk
+$
+
+
+
+=================================
+192.168.31.183
+=================================
+problem with request: socket hang up
+
+=================================
+192.168.31.184
+=================================
+problem with request: socket hang up
+
+=================================
+192.168.31.122
+=================================
+
+$
+Build Number : 11816
+Build Identification : 2016-04-08_10-46-14
+Workspace : /var/lib/jenkins/workspace/AppViewX_Trunk
+Build URL : http://10.10.100.10:8080/job/AppViewX_Trunk/11816/
+Job URL : http://10.10.100.10:8080/job/AppViewX_Trunk/
+SVN Revision : 73778
+SVN URL : https://svn.payoda.com/svn/JAVA/AppviewX_Arch_Release1/trunk
+$
+
+
+
+=================================
+192.168.31.123
+=================================
+
+$
+Build Number : 11812
+Build Identification : 2016-04-08_10-15-50
+Workspace : /var/lib/jenkins/workspace/AppViewX_Trunk
+Build URL : http://10.10.100.10:8080/job/AppViewX_Trunk/11812/
+Job URL : http://10.10.100.10:8080/job/AppViewX_Trunk/
+SVN Revision : 73760
+SVN URL : https://svn.payoda.com/svn/JAVA/AppviewX_Arch_Release1/trunk
+$
+
+
+
+=================================
+192.168.31.124
+=================================
+
+$
+Build Number : 59
+Build Identification : 59
+Workspace : /var/lib/jenkins/workspace/AppViewX_V11.0.X
+Build URL : http://10.10.100.10:8080/job/AppViewX_V11.0.X/59/
+Job URL : http://10.10.100.10:8080/job/AppViewX_V11.0.X/
+SVN Revision : 70677
+SVN URL : https://svn.payoda.com/svn/JAVA/AppviewX_Arch_Release1/branch/11.0.X
+$
+
+
+
+=================================
+192.168.31.100
+=================================
+
+$
+Build Number : 21
+Build Identification : 2016-04-07_11-50-05
+Workspace : /var/lib/jenkins/workspace/AppViewX_trunk_migration
+Build URL : http://10.10.100.10:8080/job/AppViewX_trunk_migration/21/
+Job URL : http://10.10.100.10:8080/job/AppViewX_trunk_migration/
+SVN Revision : 73697
+SVN URL : https://svn.payoda.com/svn/JAVA/AppviewX_Arch_Release1/branch/trunk_migration
+$
+
+
+
+=================================
+192.168.31.90
+=================================
+problem with request: socket hang up
+
+=================================
+192.168.31.91
+=================================
+problem with request: connect ECONNREFUSED
+
+=================================
+192.168.31.222
+=================================
+
+$
+Build Number : 11812
+Build Identification : 2016-04-08_10-15-50
+Workspace : /var/lib/jenkins/workspace/AppViewX_Trunk
+Build URL : http://10.10.100.10:8080/job/AppViewX_Trunk/11812/
+Job URL : http://10.10.100.10:8080/job/AppViewX_Trunk/
+SVN Revision : 73760
+SVN URL : https://svn.payoda.com/svn/JAVA/AppviewX_Arch_Release1/trunk
+$
+
+
+
+=================================
+192.168.31.50
+=================================
+
+$
+Build Number : 11789
+Build Identification : 2016-04-05_14-38-15
+Workspace : /var/lib/jenkins/workspace/AppViewX_Trunk
+Build URL : http://10.10.100.10:8080/job/AppViewX_Trunk/11789/
+Job URL : http://10.10.100.10:8080/job/AppViewX_Trunk/
+SVN Revision : 73585
+SVN URL : https://svn.payoda.com/svn/JAVA/AppviewX_Arch_Release1/trunk
+$
+
+
+
+=================================
+192.168.31.37
+=================================
+problem with request: connect ECONNREFUSED
+
+=================================
+192.168.31.38
+=================================
+
+$
+Build Number : 11816
+Build Identification : 2016-04-08_10-46-14
+Workspace : /var/lib/jenkins/workspace/AppViewX_Trunk
+Build URL : http://10.10.100.10:8080/job/AppViewX_Trunk/11816/
+Job URL : http://10.10.100.10:8080/job/AppViewX_Trunk/
+SVN Revision : 73778
+SVN URL : https://svn.payoda.com/svn/JAVA/AppviewX_Arch_Release1/trunk
+$
+
+
+
+=================================
+192.168.31.35
+=================================
+problem with request: socket hang up
+
+=================================
+192.168.31.36
+=================================
+problem with request: socket hang up
+
+=================================
+192.168.31.51
+=================================
+
+=================================
+192.168.31.215
+=================================
+
+$
+Build Number : 73
+Build Identification : 73
+Workspace : /var/lib/jenkins/workspace/AppViewX_V11.0.X
+Build URL : http://10.10.100.10:8080/job/AppViewX_V11.0.X/73/
+Job URL : http://10.10.100.10:8080/job/AppViewX_V11.0.X/
+SVN Revision : 70770
+SVN URL : https://svn.payoda.com/svn/JAVA/AppviewX_Arch_Release1/branch/11.0.3_JPMC
+$
+
+
+
+=================================
+192.168.31.216
+=================================
+
+$
+Build Number : 22
+Build Identification : 2016-02-22_22-06-31
+Workspace : /var/lib/jenkins/workspace/11.1.0_Barclays
+Build URL : http://10.10.100.10:8080/job/11.1.0_Barclays/22/
+Job URL : http://10.10.100.10:8080/job/11.1.0_Barclays/
+SVN Revision : 69687
+SVN URL : https://svn.payoda.com/svn/JAVA/AppviewX_Arch_Release1/branch/11.1.0_barclays
+$
+
+
+
+=================================
+192.168.31.211
+=================================
+
+$
+Build Number : 11804
+Build Identification : 2016-04-07_10-40-06
+Workspace : /var/lib/jenkins/workspace/AppViewX_Trunk
+Build URL : http://10.10.100.10:8080/job/AppViewX_Trunk/11804/
+Job URL : http://10.10.100.10:8080/job/AppViewX_Trunk/
+SVN Revision : 73689
+SVN URL : https://svn.payoda.com/svn/JAVA/AppviewX_Arch_Release1/trunk
+$
+
+
+
+=================================
+192.168.31.212
+=================================
+
+
+Build Number : 74
+Build Identification : 74
+Workspace : /var/lib/jenkins/workspace/AppViewX_V11.0.X
+Build URL : http://192.168.31.150/job/AppViewX_V11.0.X/74/
+Job URL : http://192.168.31.150/job/AppViewX_V11.0.X/
+SVN Revision : 67737
+SVN URL : http://ptsvnsrv01.payoda.com/svn/JAVA/AppviewX_Arch_Release1/branch/11.0.X
+
+
+
+=================================
+192.168.31.152
+=================================
+
+
+Build Number : 74
+Build Identification : 74
+Workspace : /var/lib/jenkins/workspace/AppViewX_V11.0.X
+Build URL : http://192.168.31.150/job/AppViewX_V11.0.X/74/
+Job URL : http://192.168.31.150/job/AppViewX_V11.0.X/
+SVN Revision : 67737
+SVN URL : http://ptsvnsrv01.payoda.com/svn/JAVA/AppviewX_Arch_Release1/branch/11.0.X
+
+
+
+=================================
+192.168.31.153
+=================================
+problem with request: socket hang up
+
+=================================
+192.168.31.154
+=================================
+problem with request: connect ECONNREFUSED
+
+=================================
+192.168.31.77
+=================================
+problem with request: socket hang up
+
+=================================
+192.168.39.93
+=================================
+problem with request: socket hang up
+
+=================================
+192.168.39.94
+=================================
+problem with request: socket hang up
+problem with request: connect ETIMEDOUT
+
+=================================
+192.168.39.183
+=================================
+problem with request: connect ECONNREFUSED
+
+=================================
+192.168.39.184
+=================================
+problem with request: connect ECONNREFUSED
+
+=================================
+192.168.39.123
+=================================
+problem with request: connect ECONNREFUSED
+
+=================================
+192.168.39.124
+=================================
+problem with request: connect ECONNREFUSED
+
+=================================
+192.168.39.90
+=================================
+
+$
+Build Number : 11804
+Build Identification : 2016-04-07_10-40-06
+Workspace : /var/lib/jenkins/workspace/AppViewX_Trunk
+Build URL : http://10.10.100.10:8080/job/AppViewX_Trunk/11804/
+Job URL : http://10.10.100.10:8080/job/AppViewX_Trunk/
+SVN Revision : 73689
+SVN URL : https://svn.payoda.com/svn/JAVA/AppviewX_Arch_Release1/trunk
+$
+
+
+
+=================================
+192.168.39.91
+=================================
+problem with request: connect ECONNREFUSED
+
+=================================
+192.168.39.37
+=================================
+problem with request: connect ECONNREFUSED
+
+=================================
+192.168.39.38
+=================================
+problem with request: connect ECONNREFUSED
+
+=================================
+192.168.39.35
+=================================
+problem with request: socket hang up
+
+=================================
+192.168.39.36
+=================================
+problem with request: connect ECONNREFUSED
+
+=================================
+192.168.39.153
+=================================
+problem with request: connect ECONNREFUSED
+
+=================================
+192.168.39.154
+=================================
+problem with request: connect ECONNREFUSED
+
+=================================
+192.168.31.224
+=================================
+
+$
+Build Number : 12
+Build Identification : 12
+Workspace : /var/lib/jenkins/workspace/AppViewX_11.0.X
+Build URL : http://appviewx-ci.payoda.com/job/AppViewX_11.0.X/12/
+Job URL : http://appviewx-ci.payoda.com/job/AppViewX_11.0.X/
+SVN Revision : 62981
+SVN URL : http://ptsvnsrv01.payoda.com/svn/JAVA/AppviewX_Arch_Release1/branch/11.0.X
+$
+
+
+
+=================================
+192.168.39.5
+=================================
+problem with request: connect ECONNREFUSED
+
+=================================
+192.168.31.112
+=================================
+problem with request: connect ECONNREFUSED
+
+=================================
+192.168.31.31
+=================================
+problem with request: connect ECONNREFUSED
+
+=================================
+192.168.12.154
+=================================
+
+$
+Build Number : 11816
+Build Identification : 2016-04-08_10-46-14
+Workspace : /var/lib/jenkins/workspace/AppViewX_Trunk
+Build URL : http://10.10.100.10:8080/job/AppViewX_Trunk/11816/
+Job URL : http://10.10.100.10:8080/job/AppViewX_Trunk/
+SVN Revision : 73778
+SVN URL : https://svn.payoda.com/svn/JAVA/AppviewX_Arch_Release1/trunk
+$
+
+
+
+=================================
+192.168.12.155
+=================================
+
+$
+Build Number : 11816
+Build Identification : 2016-04-08_10-46-14
+Workspace : /var/lib/jenkins/workspace/AppViewX_Trunk
+Build URL : http://10.10.100.10:8080/job/AppViewX_Trunk/11816/
+Job URL : http://10.10.100.10:8080/job/AppViewX_Trunk/
+SVN Revision : 73778
+SVN URL : https://svn.payoda.com/svn/JAVA/AppviewX_Arch_Release1/trunk
+$
+
+
+
+=================================
+192.168.12.156
+=================================
+problem with request: connect ECONNREFUSED
+
+=================================
+192.168.12.158
+=================================
+
+$
+Build Number : 11165
+Build Identification : 2016-02-08_18-40-44
+Workspace : /var/lib/jenkins/workspace/AppViewX_Trunk
+Build URL : http://10.10.100.10:8080/job/AppViewX_Trunk/11165/
+Job URL : http://10.10.100.10:8080/job/AppViewX_Trunk/
+SVN Revision : 68574
+SVN URL : https://svn.payoda.com/svn/JAVA/AppviewX_Arch_Release1/trunk
+$
+
+
+
+=================================
+192.168.12.160
+=================================
+problem with request: socket hang up
+
+=================================
+192.168.12.161
+=================================
+problem with request: connect ECONNREFUSED
+
+=================================
+192.168.12.162
+=================================
+problem with request: socket hang up
+
+=================================
+192.168.12.164
+=================================
+problem with request: connect ECONNREFUSED
+
+=================================
+192.168.12.60
+=================================
+problem with request: connect ECONNREFUSED
+
+=================================
+192.168.12.169
+=================================
+
+$
+Build Number : 490
+Build Identification : 2016-03-16_13-20-08
+Workspace : /var/lib/jenkins/workspace/Team_APS
+Build URL : http://10.10.100.10:8080/job/Team_APS/490/
+Job URL : http://10.10.100.10:8080/job/Team_APS/
+SVN Revision : 71372
+SVN URL : https://svn.payoda.com/svn/JAVA/AppviewX_Arch_Release1/branch/Team(APS)
+$
+
+
