@@ -1,26 +1,29 @@
 // MODULE
-var angularApp = angular.module('angularApp', ['ngMessages']);
+var angularApp = angular.module('angularApp', ['ngRoute']);
+// Route for the app
+
+angularApp.config(function ($routeProvider) {
+    $routeProvider
+        .when('/', {
+            templateUrl: 'pages/main.html',
+            controller: 'mainController'
+        })
+        .when('/second', {
+            templateUrl: 'pages/second.html',
+            controller: 'secondController'
+        });
+
+});
+
+
 
 // CONTROLLERS
 angularApp.controller('mainController', ["$scope", "$filter", function (a, b) {
-    a.name = "";
+    a.name = 'Main Page';
 
-    a.lowercaseName = function () {
-        return b('lowercase')(a.name);
-    }
+}]);
+angularApp.controller('secondController', ["$scope", "$filter", function (a, b) {
 
-    a.characters = 5;
+    a.name = 'Second Page';
 
-    a.rules = [
-        {
-            rulename: "Must be 5 characters"
-        },
-        {
-            rulename: "No special characters allowed"
-        },
-        {
-            rulename: "Nothing can stop you from learning"
-        }
-
-    ]
 }]);
