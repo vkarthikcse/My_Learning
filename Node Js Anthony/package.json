@@ -1,0 +1,11 @@
+{
+  "name": "learningapplication",
+  "version": "1.0.0",
+  "description": "My Learning development app",
+  "author": "Karthik Vadivel",
+  "dependencies": {
+    "express": "^4.13.4",
+    "nodemon": "^1.9.1"
+  },
+  "devDependencies": {}
+}
