@@ -49,7 +49,7 @@ angularApp.controller('mainController', ["$scope", "$log", "myService", function
 
     a.format = function (person) {
         return person.town + ", " + person.city;
-    }
+    };
 }]);
 angularApp.controller('secondController', ["$scope", "$log", "myService", function (a, b, myService) {
 
@@ -64,6 +64,16 @@ angularApp.directive('searchResult', function () {
         scope: {
             personObject: "=",
             formattedAddress: "&"
+        },
+        link: function (scope, elem, attr) {
+            if (scope.personObject.name.indexOf("Karthik") !== -1) {
+                elem.removeAttr("class");
+            }
+            elem[0].addEventListener('click', function () {
+                console.log("the element is clicked and binded dynamically");
+            });
+            console.log(scope.personObject.name + scope.personObject.town);
         }
     };
+
 });
