@@ -29,19 +29,41 @@ angularApp.service('myService', function () {
 // CONTROLLERS
 angularApp.controller('mainController', ["$scope", "$log", "myService", function (a, b, myService) {
 
-    a.name = myService.name;
-    b.log(myService.name);
-    b.log(myService.nameLength());
-    a.$watch('name', function () {
-        myService.name = a.name;
-    });
+    a.people = [{
+        name: "Karthik Vadivel",
+        town: "Pollachi",
+        city: "Coimbatore"
+    }, {
+        name: "Senthil Vadivel",
+        town: "Pollachi",
+        city: "Coimbatore"
+    }, {
+        name: "Meenachi Vadivel",
+        town: "Pollachi",
+        city: "Coimbatore"
+    }, {
+        name: "Karthik Vadivel",
+        town: "Pollachi",
+        city: "Coimbatore"
+    }];
 
+    a.format = function (person) {
+        return person.town + ", " + person.city;
+    }
 }]);
 angularApp.controller('secondController', ["$scope", "$log", "myService", function (a, b, myService) {
-    a.name = myService.name;
-    b.log(myService.name);
-    b.log(myService.nameLength());
-    a.$watch('name', function () {
-        myService.name = a.name;
-    });
+
 }]);
+
+
+angularApp.directive('searchResult', function () {
+    return {
+
+        templateUrl: 'directives/searchresult.html',
+        replace: true,
+        scope: {
+            personObject: "=",
+            formattedAddress: "&"
+        }
+    };
+});
