@@ -15,15 +15,33 @@ angularApp.config(function ($routeProvider) {
 
 });
 
+angularApp.service('myService', function () {
+    var self = this;
+
+    this.name = "Inside service";
+    this.nameLength = function () {
+        return self.name.length;
+    };
+});
+
 
 
 // CONTROLLERS
-angularApp.controller('mainController', ["$scope", "$filter", function (a, b) {
-    a.name = 'Main Page';
+angularApp.controller('mainController', ["$scope", "$log", "myService", function (a, b, myService) {
+
+    a.name = myService.name;
+    b.log(myService.name);
+    b.log(myService.nameLength());
+    a.$watch('name', function () {
+        myService.name = a.name;
+    });
 
 }]);
-angularApp.controller('secondController', ["$scope", "$filter", function (a, b) {
-
-    a.name = 'Second Page';
-
+angularApp.controller('secondController', ["$scope", "$log", "myService", function (a, b, myService) {
+    a.name = myService.name;
+    b.log(myService.name);
+    b.log(myService.nameLength());
+    a.$watch('name', function () {
+        myService.name = a.name;
+    });
 }]);
