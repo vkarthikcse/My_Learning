@@ -66,14 +66,13 @@ angularApp.directive('searchResult', function () {
             formattedAddress: "&"
         },
         link: function (scope, elem, attr) {
-            if (scope.personObject.name.indexOf("Karthik") !== -1) {
-                elem.removeAttr("class");
-            }
+
             elem[0].addEventListener('click', function () {
                 console.log("the element is clicked and binded dynamically");
             });
             console.log(scope.personObject.name + scope.personObject.town);
-        }
+        },
+        transclude: true
     };
 
 });
