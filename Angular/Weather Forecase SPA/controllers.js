@@ -12,7 +12,7 @@ weatherApp.controller('homeController', ['$scope', '$location', 'cityService', f
     });
 }]);
 
-weatherApp.controller('forecastController', ['$scope', '$routeParams', 'cityService', 'weatherService'function ($scope, $routeParams, cityService, weatherService) {
+weatherApp.controller('forecastController', ['$scope', '$routeParams', 'cityService', 'weatherService', function ($scope, $routeParams, cityService, weatherService) {
     $scope.city = cityService.city;
     $scope.days = $routeParams.days || '2';
 
