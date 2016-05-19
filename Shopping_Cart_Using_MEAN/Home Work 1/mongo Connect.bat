@@ -1,0 +1,1 @@
+start cmd /k "D:\mongodb\bin\mongo"
