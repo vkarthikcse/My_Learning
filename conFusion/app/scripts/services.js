@@ -1,6 +1,6 @@
 //Services for the restaurant application
 
-restaurantApp.service('dishListService', function () {
+restaurantApp.service('menuListService', function () {
     this.dishes = [
         {
             name: 'Uthapizza',

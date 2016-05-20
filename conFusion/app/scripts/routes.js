@@ -4,7 +4,7 @@ restaurantApp.config(function ($routeProvider) {
 
     $routeProvider
         .when('/', {
-            templateUrl: 'pages/dish.html',
-            controller: 'dishController'
+            templateUrl: 'pages/menu.html',
+            controller: 'menuController'
         });
 });

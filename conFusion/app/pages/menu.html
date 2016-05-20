@@ -1,0 +1,37 @@
+<div class="row row-content">
+
+    <div class="col-xs-12">
+        <ul class="nav nav-tabs" role="tablist">
+            <li role="presentation" ng-class="{active:isSelected(1)}">
+                <a aria-controls="all menu" role="tab" ng-click="select(1)">The Menu</a>
+            </li>
+            <li role="presentation" ng-class="{active:isSelected(2)}">
+                <a aria-controls="appetizers" role="tab" ng-click="select(2)">Appetizers</a>
+            </li>
+            <li role="presentation" ng-class="{active:isSelected(3)}">
+                <a aria-controls="mains" role="tab" ng-click="select(3)">Mains</a>
+            </li>
+            <li role="presentation" ng-class="{active:isSelected(4)}">
+                <a aria-controls="desserts" role="tab" ng-click="select(4)">Desserts</a>
+            </li>
+        </ul>
+        <div class="tab-content">
+            <ul class="media-list">
+                <li class="media" ng-repeat="dish in dishes | filter:filterText">
+                    <div class="media-left media-middle">
+                        <a href="#">
+                            <img class="media-object img-thumbnail" ng-src={{dish.image}} alt="Uthappizza">
+                        </a>
+                    </div>
+                    <div class="media-body">
+                        <h2 class="media-heading">{{dish.name}}
+                         <span class="label label-danger">{{dish.label}}</span>
+                         <span class="badge">{{dish.price | currency}}</span></h2>
+                        <p>{{dish.description}}</p>
+
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
