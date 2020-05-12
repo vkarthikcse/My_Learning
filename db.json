@@ -9,7 +9,8 @@
       "company": "CEDWARD",
       "email": "dunlaphubbard@cedward.com",
       "phone": "+1 (890) 543-2508",
-      "address": "169 Rutledge Street, Konterra, Northern Mariana Islands, 8551"
+      "address": "169 Rutledge Street, Konterra, Northern Mariana Islands, 8551",
+      "access_token": "elelkjefekjfkekjfke-eklfejflekjflekfje=elkeflkjelfkj"
     },
     {
       "id": "59761c233d8d0f92a6b0570d",
@@ -20,7 +21,10 @@
       "company": "EMERGENT",
       "email": "kirstensellers@emergent.com",
       "phone": "+1 (831) 564-2190",
-      "address": "886 Gallatin Place, Fannett, Arkansas, 4656"
+      "address": "886 Gallatin Place, Fannett, Arkansas, 4656",
+      "myData": {
+           "access_token": "elelkjefekjfkekjfke-eklfejflekjflekfje=elkeflkjelfkj"
+       }
     },
     {
       "id": "59761c23fcb6254b1a06dad5",
@@ -31,7 +35,12 @@
       "company": "ORGANICA",
       "email": "acostarobbins@organica.com",
       "phone": "+1 (882) 441-3367",
-      "address": "697 Linden Boulevard, Sattley, Idaho, 1035"
+      "address": "697 Linden Boulevard, Sattley, Idaho, 1035",
+      "sensitive": {
+          "myData": {
+              "access_token": "elelkjefekjfkekjfke-eklfejflekjflekfje=elkeflkjelfkj"
+          }
+      }
     }
   ]
 }
